@@ -1,6 +1,13 @@
 import React from "react";
+import Nav from "./NavbarElement";
 
 const Navbar = () => {
-  return <div>navbar motheruckers</div>;
+  return (
+    <>
+      <Nav>
+        <div>tere</div>
+      </Nav>
+    </>
+  );
 };
 export default Navbar;

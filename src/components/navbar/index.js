@@ -4,9 +4,7 @@ import Nav from "./NavbarElement";
 const Navbar = () => {
   return (
     <>
-      <Nav>
-        <div>tere</div>
-      </Nav>
+      <Nav></Nav>
     </>
   );
 };
